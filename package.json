@@ -1,7 +1,7 @@
 {
   "name": "cerebro-whois",
-  "description": "Cerebro plugin for doing whois lookups using whois.com",
-  "version": "1.0.0",
+  "description": "Cerebro plugin for doing whois lookups.",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/brpaz/cerebro-whois"
   },
@@ -12,7 +12,8 @@
     "cheerio": "^1.0.0-rc.2",
     "debounce": "^1.0.2",
     "nl2br": "^0.0.3",
-    "whois": "^2.5.0"
+    "whois": "^2.5.0",
+    "whois-json": "^1.2.2"
   },
   "devDependencies": {
     "cerebro-scripts": "0.0.19"
